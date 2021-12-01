@@ -1,6 +1,6 @@
 ### Hi there, I'm ZERRAI Sami 👋 
 
-[![Linkedin](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/sami-zerrai/)
+[![Linkedin](https://img.shields.io/badge/My-Linkedin-%230b65c2)](https://www.linkedin.com/in/sami-zerrai/)
 
 ## I'm a student, Developer !!
 
